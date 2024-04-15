@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "dishid": "104",
+      "dish": "noodles",
+      "type": "chinese",
+      "restaurant": "hongkong cafe",
+      "city": "nagpur",
+      "price": "2000",
+      "id": 1
+    },
+    {
+      "dishid": "101",
+      "dish": "pasta",
+      "type": "italian",
+      "restaurant": "itali_roma_cafe",
+      "city": "mumbai",
+      "price": "2000",
+      "id": 2
+    }
+  ]
+}
