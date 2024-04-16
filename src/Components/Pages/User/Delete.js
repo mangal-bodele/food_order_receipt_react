@@ -24,7 +24,7 @@ function Delete() {
         <h3>do you really want to delete <span style={{'color':'orange'}}> {user.dish} </span>from order?</h3>
         <button onClick={()=>{deleteUser()}}>YES</button>&nbsp;
         <NavLink to='/Show'>
-          <button>NO</button>
+        <button>NO</button>
         </NavLink>
         </center>
     </div>
